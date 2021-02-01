@@ -1,3 +1,4 @@
-## Idea
+# useStae
+---------
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+This is very simple and basic project done by using useState
